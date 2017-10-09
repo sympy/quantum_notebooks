@@ -17,6 +17,12 @@ date: 08 October 2017
 bibliography: paper.bib
 ---
 
+To find all authors of `sympy.physics.quantum`:
+
+```
+git shortlog -e --summary --numbered sympy/physics/quantum
+```
+
 # Summary
 
 Summary will be added here. JOSS asks for the summary to be 200-1000 words.
