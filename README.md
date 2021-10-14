@@ -22,5 +22,5 @@ Here is an example of using `sympy.physics.quantum` to create a 3
 qubit [Quantum Fourier Transform](https://en.wikipedia.org/wiki/Quantum_Fourier_transform),
 decompose the circuit into primitive gates, and then visualize the circuit:
 
-![Quantum Fourier Transform](images/qft_example.png?raw=true)
+![Quantum Fourier Transform](images/qft_example.png)
 
